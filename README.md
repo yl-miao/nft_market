@@ -1,6 +1,5 @@
 # Hardhat NFT Marketplace 
 
-*This repo has been updated to work with Goerli over Rinkeby.*
 
 <br/>
 <p align="center">
