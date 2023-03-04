@@ -35,8 +35,8 @@
 ## Quickstart
 
 ```
-git clone https://github.com/PatrickAlphaC/hardhat-nextjs-nft-marketplace-fcc
-cd hardhat-nextjs-nft-marketplace-fcc
+git clone https://github.com/yl-miao/nft_market
+cd nft_market
 yarn
 ```
 
